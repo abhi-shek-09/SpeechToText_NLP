@@ -1,0 +1,7 @@
+﻿-q transformers
+-q pydub
+torch
+rasa
+-U ipython
+datsets transformers[sentencepiece]
+sentencepiece
